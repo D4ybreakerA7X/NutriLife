@@ -1,5 +1,5 @@
 <h1 align="center">
-  NutriLab - PyStack Week 4.0
+  NutriLife
 </h1>
 <p align="center">
   <a href="#tecnologias-e-práticas-utilizadas">Tecnologias e práticas utilizadas</a> •
@@ -7,11 +7,7 @@
   <a href="#comandos">Comandos</a>
 </p>
 
-Aplicação para nutricionistas e pacientes.
-
-Desenvolvida uma aplicação completa para nutricionistas gerenciarem seus pacientes.
-
-## Tecnologias e práticas utilizadas
+## Tecnologias  utilizadas
 - Python 3.8
 - Django 4.2
 - SQLite
