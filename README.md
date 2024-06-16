@@ -1,5 +1,5 @@
 <h1 align="center">
-  NutriLife
+  SISTEMA WEB DE ANALISIS NUTRICIONAL PARA FAMILIAS MEXICANAS “NUTRILIFE”
 </h1>
 <p align="center">
   <a href="#tecnologias-e-práticas-utilizadas">Tecnologias e práticas utilizadas</a> •
