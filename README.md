@@ -14,8 +14,8 @@
 - Arquitetura MVT
 
 ## Funcionalidades
-- Autenticação, Cadastro e Ativação de Usuários
-- Gestão de Pacientes, seus Dados Laboratoriais e seus Planos Alimentares
+Aplicación web que funcione como una lista de compras de alimentos, permitiendo a los usuarios controlar sus compras y mantener un registro de lo que consumen. Además, la aplicación analizará estos datos junto con información proporcionada por el usuario, como el número de miembros del hogar y sus edades, para ofrecer recomendaciones nutricionales personalizadas y sugerencias de recetas equilibradas en base a los alimentos que sé tienen en casa. La aplicación busca promover hábitos alimenticios saludables al facilitar la planificación y preparación de comidas, así como ofrecer orientación nutricional basada en el análisis de datos.
+
 
 ###
 
